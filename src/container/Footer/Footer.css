@@ -69,13 +69,13 @@
     margin-top: 3rem;
 }
 
-@media screen and(min-width:2000px) {
+@media screen and (min-width:2000px) {
     .app__footer-headtext {
         font-size: 51px;
     }
 }
 
-@media screen and(max-width:1150px) {
+@media screen and (max-width:1150px) {
     .app__footer-links {
         align-items: center;
         flex-direction: column;
@@ -89,13 +89,13 @@
     }
 }
 
-@media screen and(max-width:650px) {
+@media screen and (max-width:650px) {
     .app__footer {
         padding: 0 0 2rem 0;
     }
 }
 
-@media screen and(max-width:350px) {
+@media screen and (max-width:350px) {
     .app__footer-links_logo img:first-child {
         width: 80%;
     }
